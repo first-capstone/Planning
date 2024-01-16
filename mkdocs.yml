@@ -1,1 +1,7 @@
 site_name: My Docs
+theme:
+  name: dracula
+
+nav:
+  - '0. 프로젝트 계획':
+      - 포지션: '0. 프로젝트 계획/develop_position.md'

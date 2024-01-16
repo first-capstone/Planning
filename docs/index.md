@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# 배재대학교 3학년 1학기 캡스톤
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### 참가자
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<b>강은주, 김태호, 윤규도, 임동섭, 장지현, 최다연</b>
